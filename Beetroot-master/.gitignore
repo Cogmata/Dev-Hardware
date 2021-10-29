@@ -1,0 +1,44 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Dependencies
+*.d
+
+# Build Objects
+*.buildinfo
+*.bin
+*.elf
+*.map
+
+# Arduino and VS/VM generated files
+/OpenBionics_Beetroot/OpenBionics_Beetroot/Debug/
+/OpenBionics_Beetroot/OpenBionics_Beetroot/__vm/
+/OpenBionics_Beetroot/.vs/
+
